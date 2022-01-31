@@ -23,7 +23,7 @@ Next we will look at the Average Fares per ride, and per driver. The lowest fare
 When analyzing the weekly fares per week we see  that the largest spike in total fares occurred between February and march for all three city types. However in Urban City types these trends continue until April. On the other end, we see a very large dip of total fares whenever there is a recent uptrend of prices. This fares to date comparison can be seen below in "Pyber Fare Summary".
 
 
-<img src ="Resources/Pyber_fare_summary.png" width = "500" alt ="pybersum" title ="Pyber Fare Summary"/>
+<img src ="Resources/PyBer_fare_summary.png" width = "500" alt ="pybersum" title ="Pyber Fare Summary"/>
 
 ## Summary
 The first recommendation that I have for the CEO of pyber is related to the Urban communities. I would recommend having more drivers during the peak months of February and march, more drivers would mean more revenue.
